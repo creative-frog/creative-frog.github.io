@@ -1,1 +1,1 @@
-[![](https://i.imgur.com/n32QfNy.png)](https://yell0wsuit.github.io/html5-games/games/chrome-dino/) [![](![image](https://user-images.githubusercontent.com/92345527/167954101-e8431588-abd5-4702-9473-f56ea54bf679.png))](https://yell0wsuit.github.io/html5-games/games/cut-the-rope/) 
+[![](https://i.imgur.com/n32QfNy.png)](https://yell0wsuit.github.io/html5-games/games/chrome-dino/) [![]((https://user-images.githubusercontent.com/92345527/167954101-e8431588-abd5-4702-9473-f56ea54bf679.png))](https://yell0wsuit.github.io/html5-games/games/cut-the-rope/) 
