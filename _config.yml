@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 title: Game directory
+layout: page
+title: "Links"
+permalink: /Links/
+
